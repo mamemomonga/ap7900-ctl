@@ -1,0 +1,5 @@
+username: apc
+password: apc
+address: 192.168.1.100:23
+timeout: 10
+debug: false
